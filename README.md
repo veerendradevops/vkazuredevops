@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/veerendraazure/00f3074e-5130-4e29-8b51-3b3d0c8b39fd/03d72c9d-4e3a-4659-a5fc-5894c05a9376/_apis/work/boardbadge/bd0d8fd3-7849-419d-a73b-59cbe7a1b8fd)](https://dev.azure.com/veerendraazure/00f3074e-5130-4e29-8b51-3b3d0c8b39fd/_boards/board/t/03d72c9d-4e3a-4659-a5fc-5894c05a9376/Microsoft.RequirementCategory)
 # vkazuredevops
